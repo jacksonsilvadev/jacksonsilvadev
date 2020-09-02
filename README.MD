@@ -24,7 +24,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/vue-brightgreen.svg?style=flat-square&logo=Vue.JS&logoColor=white" />
-  <img alt="Vuejs" src="https://img.shields.io/badge/vue-brightgreen.svg?style=flat-square&logo=Vue.JS&logoColor=white" />
 </p>
 
 📩 Contact: jacksonsilvadev@gmail.com
