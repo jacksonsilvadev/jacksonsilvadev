@@ -13,7 +13,7 @@ My name is Jackson Silva, I'm from Brazil and I'm currently focused on programmi
 #  Skills
 
 <p>
-  <img alt="Nodejs" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
@@ -28,7 +28,7 @@ My name is Jackson Silva, I'm from Brazil and I'm currently focused on programmi
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/vue-brightgreen.svg?style=flat-square&logo=Vue.JS&logoColor=white" />
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square=lua&logoColor=white" />
 </p>
 
 #   Statistics
