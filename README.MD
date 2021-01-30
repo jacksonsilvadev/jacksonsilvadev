@@ -8,7 +8,7 @@ My name is Jackson Silva, I'm from Brazil and I'm currently focused on programmi
 
 💬・If you want to contact me 👇🏻
 
-![Fale comigo!](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=linkedin.com/in/jacksonsilvadev/)  ![Fale comigo!](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=instagram/jacksonsilvadev)  ![Fale comigo!](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=github.com/jacksonsilvadev)  ![Fale comigo!](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=youtube.com/channel/UC3ohCi5_s0cJe5PWFMgCkTA)  ![jacksonsilvadev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=jacksonsilvadev@gmail.com)
+![Fale comigo!](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=linkedin.com/in/jacksonsilvadev/)  ![Fale comigo!](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=instagram/jacksonsilvadev)  ![Fale comigo!](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=github.com/jacksonsilvadev)  ![Fale comigo!](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=youtube.com/channel/UC3ohCi5_s0cJe5PWFMgCkTA)  ![jacksonsilvadev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=jacksonsilvadev@gmail.com)
 
 #  Skills
 
