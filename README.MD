@@ -1,14 +1,20 @@
-#   Hey, nice to see you 👋
 
-My name is Jackson Silva, I'm from Brazil and I'm currently focused on programming. I'm a back-end developer and I'm studying hard to be a Engineer Software. 👨‍💻
+<h1 align="center">Hi 👋, I'm Jackson Silva </h1> 
+<h3 align="center">I'm from Brazil and I'm currently focused on programming. <br>
+I'm a back-end developer and I'm studying hard to be a Engineer Software. 👨‍💻 <br>
+"Do as a programmer. When everything is wrong and confused, delete everything and start over from scratch." <br>
+</h3>
+- 🔧 I'm currently using [Web Storm](https://www.jetbrains.com/webstorm/) to develop my projects.
 
-"Do as a programmer. When everything is wrong and confused, delete everything and start over from scratch." 🧠
+- 🔭 I’m currently working on [Leveros | Profiz](https://www.profiz.com.br/)
 
-🔧・I'm currently using [Visual Studio Code](https://code.visualstudio.com) to develop my projects.
+- 👨‍💻 All of my projects are available at [https://www.gitshowcase.com/jacksonsilvadev](https://www.gitshowcase.com/jacksonsilvadev)
 
-💬・If you want to contact me 👇🏻
+- 📫 How to reach me **jacksonsilvadev@gmail.com**
 
-![Fale comigo!](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=linkedin.com/in/jacksonsilvadev/)  ![Fale comigo!](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=instagram/jacksonsilvadev)  ![Fale comigo!](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=github.com/jacksonsilvadev)  ![Fale comigo!](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=youtube.com/channel/UC3ohCi5_s0cJe5PWFMgCkTA)  ![jacksonsilvadev@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=jacksonsilvadev@gmail.com)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jacksonsilvadev/](https://www.linkedin.com/in/jacksonsilvadev/)
+
+
 
 #  Skills
 
@@ -31,8 +37,14 @@ My name is Jackson Silva, I'm from Brazil and I'm currently focused on programmi
   <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square=lua&logoColor=white" />
 </p>
 
-#   Statistics
+- If you want to contact me 👇🏻
+<p align="left">
+<a href="https://linkedin.com/in/jacksonsilvadev" target="blank"><img align="center" src="https://camo.githubusercontent.com/f0382f63e92017cf214068e4a5a86b547ce7cbb133c898e7aa2ddb852f95c350/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d77686974652675726c3d6c696e6b6564696e2e636f6d2f696e2f6a61636b736f6e73696c76616465762f" alt="jacksonsilvadev" /></a>
+<a href="https://instagram.com/jacksonsilvadev" target="blank"><img align="center" src="https://camo.githubusercontent.com/c56a17141b95e8ad308b95adc1b3a23347c1ffa59c5e71bc51f19d42e714111d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d696e7374616772616d2f6a61636b736f6e73696c7661646576" alt="jacksonsilvadev" /></a>
+</p>
 
-[![Jackson Silva](https://github-readme-stats.vercel.app/api?username=JACKSONSILVADEV&count_private=true&theme=merko&show_icons=true)](https://github.com/jacksonsilvadev)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jacksonsilvadev&show_icons=true&theme=dark&locale=en" alt="jacksonsilvadev" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacksonsilvadev&layout=compact)](https://github.com/jacksonsilvadev)
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacksonsilvadev&show_icons=true&locale=en&layout=compact&theme=dark" alt="jacksonsilvadev" /></p>
+
+
