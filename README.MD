@@ -12,7 +12,7 @@ I'm a back-end developer and I'm studying hard to be a Engineer Software. 👨�
 
 - 📫 How to reach me **jacksonsilvadev@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jacksonsilvadev/](https://www.linkedin.com/in/jacksonsilvadev/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/jacksonsilvadev/)
 
 
 
