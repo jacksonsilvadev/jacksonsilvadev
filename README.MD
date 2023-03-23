@@ -6,8 +6,6 @@ I'm a back-end developer and I'm studying hard to be a Engineer Software. 👨�
 </h3>
 - 🔧 I'm currently using [VScode](https://code.visualstudio.com/) to develop my projects.
 
-- 🔭 I’m currently working on [LinkApi](https://www.linkapi.solutions/)
-
 - 👨‍💻 All of my projects are available at [https://www.gitshowcase.com/jacksonsilvadev](https://www.gitshowcase.com/jacksonsilvadev)
 
 - 📫 How to reach me **jacksonsilvadev@gmail.com**
